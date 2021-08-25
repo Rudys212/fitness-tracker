@@ -31,7 +31,7 @@ An application that was made to help users keep track of their workouts througho
 - ![MongoDb](https://img.shields.io/badge/Built%20with-MongoDb-green)
 - ![Express.js](https://img.shields.io/badge/Built%20with-Express.JS-green)
 - ![Mongoose](https://img.shields.io/badge/Built%20with-Mongoose-green)
-- ![Semantic-UI](https://img.shields.io/badge/Built%20with-Semantic-UI-green)
+- ![Semantic-UI](https://img.shields.io/badge/Built%20with-Semantic_UI-green)
 - ![Heroku](https://img.shields.io/badge/Built%20with-Heroku-green)
 
 ## **Contributors**
